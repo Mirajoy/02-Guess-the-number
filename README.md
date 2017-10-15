@@ -33,3 +33,5 @@ The grading criteria will be as follows:
 * [2] Adds interesting features (beyond the scope of the assignment)
 
 20 points total
+
+I made a program that presents a user with a number guessing game.
